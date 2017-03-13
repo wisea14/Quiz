@@ -299,6 +299,7 @@
 				ABC8F54A1E326B1B004CA044 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
